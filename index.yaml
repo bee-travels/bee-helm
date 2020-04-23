@@ -3,7 +3,22 @@ entries:
   bee-travels:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-02-10T12:49:43.315785-05:00"
+    created: "2020-04-22T22:32:10.725698-04:00"
+    description: A Helm chart for bee travels application.
+    digest: ae27346ca1782223d40a394b93b91830c83ab1ee37e80be67c47a290faa305a9
+    kubeVersion: '>=1.14.0'
+    maintainers:
+    - email: moficodes@gmail.com
+      name: Mofizur Rahman
+      url: https://github.com/moficodes
+    name: bee-travels
+    type: application
+    urls:
+    - https://bee-travels.github.io/bee-helm/bee-travels-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-04-22T22:32:10.724297-04:00"
     description: A Helm chart for bee travels application.
     digest: 8de5b6e5e500b143bb9f506a4d6796f80cef4708dd60583765bcdf083edb0226
     kubeVersion: '>=1.14.0'
@@ -18,7 +33,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-02-10T12:49:43.312543-05:00"
+    created: "2020-04-22T22:32:10.7229-04:00"
     description: A Helm chart for bee travels application.
     digest: a285894a3edef8543c94f4757de5692a281337d916ee816d9f8d4b8e5c2e175a
     kubeVersion: '>=1.14.0'
@@ -31,4 +46,4 @@ entries:
     urls:
     - https://bee-travels.github.io/bee-helm/bee-travels-0.0.1.tgz
     version: 0.0.1
-generated: "2020-02-10T12:49:43.307855-05:00"
+generated: "2020-04-22T22:32:10.716282-04:00"
